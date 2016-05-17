@@ -1,0 +1,32 @@
+{
+  "name": "haivl",
+  "version": "0.0.1",
+  "description": "source tho san v0.0.1",
+  "main": "main.js",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "cookie-parser": "^1.4.1",
+    "express": "^4.13.4",
+    "mongodb": "^2.1.18",
+    "mongodb-connection-model": "^3.0.10",
+    "multer": "^1.1.0",
+    "mongoose": "^4.4.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "thosan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vupv4/thosan.git"
+  },
+  "keywords": [
+    "master"
+  ],
+  "author": "vuphan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vupv4/thosan/issues"
+  },
+  "homepage": "https://github.com/vupv4/thosan#readme"
+}
